@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wopfVUobnl2TrSD/43rj0ZYYF5n2rfvnTL7xbBeYgqAxP1v0rnqV5lLzBBzqXQgc+t3wpPAIcikTCNFhzQmEmg==",
+  "dgSpecHash": "fGhRlsNldJyJ0wyvIv72chG84vqLGrprB+bZQm5KezwO5KNUKSXxvKCqlQHgkvEq9KjaZ6ylILNKQ5ym/2evDw==",
   "success": true,
-  "projectFilePath": "D:\\navya\\UserRegistration\\UserRegistration\\UserRegistration.csproj",
+  "projectFilePath": "D:\\Project\\Navya-Kanduri\\UserRegistration\\UserRegistration\\UserRegistration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\fluentassertions\\6.11.0\\fluentassertions.6.11.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

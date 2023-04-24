@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\UserRegistration"
+    "\\UserRegistration",
+    "\\UserRegistration\\Models"
   ],
-  "SelectedNode": "\\UserRegistration\\UserRegistration.csproj",
+  "SelectedNode": "\\UserRegistration\\Models\\Registration.cs",
   "PreviewInSolutionExplorer": false
 }

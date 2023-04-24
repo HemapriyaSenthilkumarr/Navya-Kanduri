@@ -7,8 +7,7 @@ namespace UserRegistration.Models
     {
         [Key]
         public int Id { get; set; }
-        //[EmailAddress(ErrorMessage ="invalid email")]
-        [Required(ErrorMessage ="Please enter Email")]
+        [EmailAddress(ErrorMessage ="invalid email")]
 		[RegularExpression(@"[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}",ErrorMessage ="Please Enter Valid Email")]
 		[Remote(action:"UserNameIsExist",controller:"Registration")]
         public string? UserName { get; set; }

@@ -9,45 +9,45 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UserRegistration
 build_property.RootNamespace = UserRegistration
-build_property.ProjectDir = D:\navya\UserRegistration\UserRegistration\
+build_property.ProjectDir = D:\Project\Navya-Kanduri\UserRegistration\UserRegistration\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\navya\UserRegistration\UserRegistration
+build_property.MSBuildProjectDirectory = D:\Project\Navya-Kanduri\UserRegistration\UserRegistration
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/navya/UserRegistration/UserRegistration/Views/Home/Index.cshtml]
+[D:/Project/Navya-Kanduri/UserRegistration/UserRegistration/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/navya/UserRegistration/UserRegistration/Views/Home/Privacy.cshtml]
+[D:/Project/Navya-Kanduri/UserRegistration/UserRegistration/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/navya/UserRegistration/UserRegistration/Views/Login/Login.cshtml]
+[D:/Project/Navya-Kanduri/UserRegistration/UserRegistration/Views/Login/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/navya/UserRegistration/UserRegistration/Views/Registration/SignUp.cshtml]
+[D:/Project/Navya-Kanduri/UserRegistration/UserRegistration/Views/Registration/SignUp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cmF0aW9uXFNpZ25VcC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/navya/UserRegistration/UserRegistration/Views/Shared/Error.cshtml]
+[D:/Project/Navya-Kanduri/UserRegistration/UserRegistration/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/navya/UserRegistration/UserRegistration/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Project/Navya-Kanduri/UserRegistration/UserRegistration/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/navya/UserRegistration/UserRegistration/Views/_ViewImports.cshtml]
+[D:/Project/Navya-Kanduri/UserRegistration/UserRegistration/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/navya/UserRegistration/UserRegistration/Views/_ViewStart.cshtml]
+[D:/Project/Navya-Kanduri/UserRegistration/UserRegistration/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/navya/UserRegistration/UserRegistration/Views/Shared/_Layout.cshtml]
+[D:/Project/Navya-Kanduri/UserRegistration/UserRegistration/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-wrvlebndwl

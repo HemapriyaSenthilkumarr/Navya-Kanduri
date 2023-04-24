@@ -27,12 +27,10 @@
 				<div class="form-group ">
 					<label asp-for="Gender"></label>
 					<label>
-						@Html.RadioButtonFor(model => model.Gender, "Male")
-						Male
+						<input type="radio" asp-for="Gender" value="Male" /> Male
 					</label>
 					<label>
-						@Html.RadioButtonFor(model => model.Gender, "Female")
-						Female
+						<input type="radio" asp-for="Gender" value="Female" /> Female
 					</label>
 					<span asp-validation-for="Gender" class="text-danger"></span>
 				</div>
